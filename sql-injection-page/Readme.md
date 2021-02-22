@@ -17,5 +17,8 @@ This project was meant to test 2 types of SQL injection commands
   <img src="./images/successful-login.JPG" width="600" height="300" title="invalid login" />
 </p>
 
+#### ```validuser' OR '1'='1```
 
-
+<p align="center">
+  <img src="./images/validuser-no-password.JPG" width="600" height="300" title="invalid login" />
+</p>
