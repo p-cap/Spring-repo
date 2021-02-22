@@ -10,9 +10,12 @@ This project was meant to test 2 types of SQL injection commands
 
 ## Walkthrough
 
-#### Validates a user via API call
+#### Validates a user
 
 <p align="center">
-  <img src="./images/invalid-login.JPG" width="800" height="400" title="invalid login" />
+  <img src="./images/invalid-login.JPG" width="600" height="300" title="invalid login" />
+  <img src="./images/successful-login.JPG" width="600" height="300" title="invalid login" />
 </p>
+
+
 
