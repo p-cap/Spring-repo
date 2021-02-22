@@ -76,7 +76,7 @@ return (
                               label="Password" 
                               name="password" 
                               variant="outlined"
-                              // type="password" 
+                              type="password" 
                               onChange={(e)=> setPassword(e.target.value)}
                               />
                       </Grid>
